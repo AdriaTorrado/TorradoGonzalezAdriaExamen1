@@ -1,0 +1,107 @@
+body{
+    font-family: "Poppins", serif;
+}
+#boton1{
+    border-radius: 67px;
+    background-color: #285E67;
+    font-family: "Poppins", serif;
+    color: #FFFFFF;
+    width: 251px;
+    height: 56px;
+    padding: 16px;
+    font-size: 21.33px;
+    justify-content: center;
+}
+#boton2{
+    border-radius: 67px;
+    font-family: "Poppins", serif;
+    background-image: url('monte.svg');
+    background-position: bottom;
+    color: #FFFFFF;
+    width: 257px;
+    height: 56px;
+}
+ul li{
+    list-style: none;
+}
+header{
+    display: flex;
+}
+.menu{
+    display: flex;
+    gap: 5em;
+}
+.logo{
+    display: flex;
+}
+h1{
+    font-size: 65.34px;
+}
+.centrar{
+    text-align: center;
+}
+.imag{
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.im{
+    justify-content: end;
+}
+.sec2{
+    display: flex;
+}
+.jard{
+    justify-content: start;
+    display: flex;
+}
+.flex{
+    display: flex;
+    gap: 23px;
+}
+.organic{
+    font-size: 50.52px;
+}
+.sec4{
+    display: flex;
+    gap: 87px;
+}
+.eat{
+    font-size: 50.52px;
+}
+.hojas{
+    display: flex;
+}
+.sec5{
+    color: #FFFFFF;
+    text-align: center;
+}
+.imagenFondo{
+    background-image: url('monte.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 150px;
+    
+}
+.sec6{
+    background-color: #FCE2D7;
+    display: flex;
+    gap: 17em;
+    justify-content: center;
+    padding: 50px;
+}
+#margen{
+    justify-content: center;
+}
+footer{
+    display: flex;
+    gap: 24px;
+    background-color: #285E67;
+    color: #FFFFFF;
+}
+.redes{
+    display: flex;
+}
+.end{
+    justify-content: end;
+}
