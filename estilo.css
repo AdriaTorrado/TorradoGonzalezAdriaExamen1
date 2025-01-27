@@ -91,13 +91,16 @@ h1{
     padding: 50px;
 }
 #margen{
-    justify-content: center;
+    width: 1300px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 footer{
     display: flex;
     gap: 24px;
     background-color: #285E67;
     color: #FFFFFF;
+    padding: 30px;
 }
 .redes{
     display: flex;
