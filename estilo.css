@@ -26,6 +26,7 @@ ul li{
 }
 header{
     display: flex;
+    gap: 845px;
 }
 .menu{
     display: flex;
@@ -33,6 +34,7 @@ header{
 }
 .logo{
     display: flex;
+    gap: 10px;
 }
 h1{
     font-size: 65.34px;
@@ -97,7 +99,7 @@ h1{
 }
 footer{
     display: flex;
-    gap: 24px;
+    gap: 500px;
     background-color: #285E67;
     color: #FFFFFF;
     padding: 30px;
